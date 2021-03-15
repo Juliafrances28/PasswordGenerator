@@ -9,7 +9,7 @@
      * [License](#License)
      
   ## Description
-  You know that moment when you need a password for yet another site?  You know they should all be different passwords, but you just can't think of one. Introducing the Password Generator just answer a series of short questions and the system will generate a password for you.  
+  You know that moment when you need a password for yet another site?  You know they should all be different passwords, but you just can't think of one. Introducing the Password Generator... just answer a series of short questions and the system will generate a password for you.  
 
   ## license 
   MIT ![badge](https://img.shields.io/badge/License-MIT-yellow

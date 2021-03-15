@@ -1,61 +1,39 @@
-# 03 JavaScript: Password Generator
 
-Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+  # Password Generator 
 
-If you are unfamiliar with special characters, take a look at [some examples](https://www.owasp.org/index.php/Password_special_characters).
+   ## Table of Contents
+     * [Email](#Email)
+     * [Username](#Username)
+     * [Description](#Description)
+     * [Usage](#Usage)
+     * [Questions](#Questions)
+     * [License](#License)
+     
+  ## Description
+  You know that moment when you need a password for yet another site?  You know they should all be different passwords, but you just can't think of one. Introducing the Password Generator just answer a series of short questions and the system will generate a password for you.  
 
-## Task
+  ## Usage 
+  To provide the user with a password.
 
-```
-Create  password generator
-```
+  ## license 
+  MIT ![badge](https://img.shields.io/badge/License-MIT-yellow
 
-## Requirements
+  ## Contributed
+  It was a solo project.  
 
-```
-Ask the user a series of questions
-a) length of password (numeric input)
-b) validate length is between 8 and 128.
-c) type of characters to include - special characters, uppercase, lowercase, numeric(series of yes/no confirms)
-d) Validate the user selected at least one character type.
+  ## Tested
+  Run the application and see if it provides a password 
 
-Any invalid response will terminate password generation and the user must start over.
+  ## Questions 
+   Please do not hesitate to reach out. 
 
-Once the user has entered valid responses, generate a password that meets their criteria and display it in the box.
-```
-
-The following image demonstrates the application functionality:
-
-![password generator demo](./Assets/03-javascript-homework-demo.png)
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-<!-- 
-// NOTES
-// add string lower/upper
-// add string special characters
-// add numeric 0-9
-
-// if else statement
-// true/false boolean
-
-// string variable set 
-//Prompt numeric value
+  ## Username
+  juliafrances28 
 
 
-// generatedpassword
-// to generate password- for loop the length
-// add to string
-// for the length of what the user said
-//
+  ## Email 
+  julia.horan28@gmail.com
 
-// write the character variables -->
+  ## Repo
+  https://github.com/Juliafrances28/PasswordGenerator
+  

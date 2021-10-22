@@ -5,7 +5,7 @@
      * [Email](#Email)
      * [Username](#Username)
      * [Description](#Description)
-     * [Questions](#Questions)
+     * [Contributed](#Contributed)
      * [License](#License)
      
   ## Description
@@ -16,13 +16,7 @@
 
   ## Contributed
   It was a solo project.  
-
-  ## Questions 
-   Please do not hesitate to reach out. 
-
-  ## Username
-  juliafrances28 
-
+  
   ## Email 
   julia.horan28@gmail.com
 
@@ -31,3 +25,5 @@
   
   ## Deployed Link 
   http://juliafrances28.github.io/PasswordGenerator/
+
+<img width="925" alt="Screen Shot 2021-10-22 at 11 20 08 AM" src="https://user-images.githubusercontent.com/67694214/138480789-e73847c0-5374-4c17-8157-0d2a4c7b32fd.png">
